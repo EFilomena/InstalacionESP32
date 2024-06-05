@@ -91,4 +91,4 @@ Para su instalación siga los siguietes pasos:
 
 ---
 
-Una vez finalizada la instalación de las herramientas puede continuar con el instructivo de [Compilación](./compilación.md).
+
