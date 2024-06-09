@@ -40,7 +40,7 @@ A continuación se detallan los pasos la compilación, grabación y ejecución d
 
     ![ejemplo7](./imágenes/ejemplo7.png)
 
-2. A continuación seleccione la placa con la que está trabajando. En caso de ser la placa recomendada para el curso (`ESP32-DevKitC`) seleccione primero `esp32` y luego `ESP-WROVER-KIT 3.3V`.
+2. A continuación seleccione la placa con la que está trabajando. En caso de ser la placa recomendada para el curso (`ESP32-DevKitC`) seleccione primero `esp32` y luego `ESP32 chip (via ESP USB bridge)`.
 
     ![ejemplo8](./imágenes/ejemplo8.png)
 
